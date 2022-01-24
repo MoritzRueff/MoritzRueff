@@ -30,4 +30,4 @@ Please do not forget, everything here is still a construction site 🚧
 - Biking :bike:
 - Travel :earth_americas:
 - Computer Stuff :desktop_computer: 
-- Cars 
+- Cars 🏎️
