@@ -29,5 +29,4 @@ Welcome to my profile! My name is Moritz and I'm a future web development develo
 - Biking :bike:
 - Travel :earth_americas:
 - Computer Stuff :desktop_computer: 
-- Nice Things	
-- Other nice things
+- Cars 
