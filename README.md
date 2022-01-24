@@ -2,7 +2,7 @@
 
 ## Welcome 
 
-Welcome to my profile! My name is Moritz and I'm a future web development developer. I'm from Munich, and currently studiying at Neue Fische. :fish:
+Welcome to my profile! My name is Moritz and I'm a future web development developer. I'm from Munich, and currently studiying at Neue Fische. :fish: <br>
 Please do not forget, everything here is still a construction site 🚧
 
 ## Technologies & Tools
