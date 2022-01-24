@@ -1,16 +1,33 @@
-### Hi there 👋
+# Moritz Ruëff
 
-<!--
-**MoritzRueff/MoritzRueff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome 
 
-Here are some ideas to get you started:
+Welcome to my profile! My name is Moritz and I'm a future web development developer. I'm from Munich, and currently studiying at Neue Fische. :fish:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+
+(in the making...) :grinning:
+
+- HTML5
+- CSS3
+- JavaScript ES2020
+- React 17
+- styled-components
+- React Styleguidist
+- React Router
+- Node.js
+- npm
+- Express
+- MongoDB
+- mongoose
+- Git/Github Workflow
+- Jest
+- Cypress   
+- Figma   
+ 
+## Hobbies & Interests
+- Biking :bike:
+- Travel :earth_americas:
+- Computer Stuff :desktop_computer: 
+- Nice Things	
+- Other nice things
