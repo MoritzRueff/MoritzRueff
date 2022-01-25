@@ -25,9 +25,3 @@ Please do not forget, everything here is still a construction site 🚧
 - Jest
 - Cypress   
 - Figma   
- 
-## Hobbies & Interests
-- Biking :bike:
-- Travel :earth_americas:
-- Computer Stuff :desktop_computer: 
-- Cars 🏎️
